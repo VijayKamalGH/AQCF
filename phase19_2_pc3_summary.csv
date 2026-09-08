@@ -1,0 +1,2 @@
+pc,communication_role,sender_node,receiver_node,protocol,expected_records,received_records,sifted_records,bit_errors,qber,qber_threshold,raw_key_agreement,security_decision,key_length,data_transfer,decrypted_plaintext,pc2_mode
+PC-3,RECEIVER,PC-1,PC-3,BB84,100,100,40,0,0.0,0.11,True,PASS,40,ALLOWED,"Hi, How are you?",relay

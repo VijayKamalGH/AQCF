@@ -1,0 +1,2 @@
+pc,communication_role,sender_node,receiver_node,protocol,n_bits,distance_km,eve_enabled_local_flag,message_length,pc2_mode,sifted_bits,errors,qber,qber_threshold,security,key_length,data_status,decrypted_plaintext,eve_intercepted,eve_disturbed
+PC-1,SENDER,PC-1,PC-3,BB84,100,10.0,False,16,relay,40,0,0.0,0.11,PASS,40,ALLOWED,"Hi, How are you?",0,0

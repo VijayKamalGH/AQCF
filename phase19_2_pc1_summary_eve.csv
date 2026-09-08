@@ -1,0 +1,2 @@
+pc,communication_role,sender_node,receiver_node,protocol,n_bits,distance_km,eve_enabled_local_flag,message_length,pc2_mode,sifted_bits,errors,qber,qber_threshold,security,key_length,data_status,decrypted_plaintext,eve_intercepted,eve_disturbed
+PC-1,SENDER,PC-1,PC-3,BB84,100,10.0,False,51,eve,49,11,0.22448979591836735,0.11,FAIL,0,BLOCKED,,24,24

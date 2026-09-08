@@ -1,0 +1,2 @@
+pc,communication_role,sender_node,receiver_node,protocol,expected_records,received_records,sifted_records,bit_errors,qber,qber_threshold,raw_key_agreement,security_decision,key_length,data_transfer,decrypted_plaintext,pc2_mode
+PC-3,RECEIVER,PC-1,PC-3,BB84,100,100,49,11,0.22448979591836735,0.11,False,FAIL,0,BLOCKED,,eve
