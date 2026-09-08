@@ -1,0 +1,2 @@
+pc,role,mode,sender_node,receiver_node,protocol,received_from_sender,forwarded_to_receiver,eve_intercepted,eve_disturbed,qber,security,data_status
+PC-2,INTERMEDIATE,relay,PC-1,PC-3,BB84,100,100,0,0,0.0,PASS,ALLOWED
